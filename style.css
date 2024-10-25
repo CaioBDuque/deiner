@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Centraliza verticalmente */
+    background-color: #70c5ce; /* Cor de fundo */
+}
+
+canvas {
+    display: block; /* Remove o espaço em branco em torno do canvas */
+    border: 2px solid #fff; /* Adiciona uma borda branca ao canvas */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Sombra suave ao redor do canvas */
+}
+
+.segio{
+    width: 15%;
+}
+
+.neyzinho{
+    width: 05%;
+}
